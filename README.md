@@ -7,9 +7,9 @@ animated banners using HTML5's CSS animation capabilties.
 One should have a base knowledge of how CSS animations function in order to be 
 able to fully use these.
 
-Contained within this library are full, but simple examples of how to use both 
-of this JS libraries for creating an animated banner. BannerAnimation.js costs 
-roughly 9KB in file size in its minified form.
+Contained within this library are full, but simple examples of how to use this 
+JS library for creating an animated banner. BannerAnimation.js costs about 9KB 
+in file size in the minified form.
 
 As the name implies, this JS library makes use of CSS animations to perform 
 visual changes. What happens in the background is the JS code generates the CSS 
