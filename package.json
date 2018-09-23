@@ -1,0 +1,24 @@
+{
+	"name":"html5-banner-animation",
+	"title":"HTML5 JavaScript Banner Animation Library",
+	"description":"This JavaScript banner animation library intended for use with creating web-based animated banners using HTML5's CSS animation capabilties.",
+	"version":"1.0.0",
+	"author":{
+		"name": "Wade Walker",
+		"email": "wadedwalker@gmail.com",
+		"url": "https://wadedwalker.com/"
+	},
+	"keywords": [
+		"JavaScript",
+		"banners"
+	],
+	"license":"MIT",
+	"homepage": "https://github.com/jediwade/html5-banner-animation",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jediwade/html5-banner-animation.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jediwade/html5-banner-animation/issues"
+	}
+}
